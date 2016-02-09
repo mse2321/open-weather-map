@@ -1,0 +1,22 @@
+{
+  "name": "open-weather-map",
+  "homepage": "https://github.com/mse2321/marcus-eubanks-portfolio",
+  "authors": [
+    "mse2321 <mse233@gmail.com>"
+  ],
+  "description": "Thinkful Angular Project",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.4.9",
+    "angular-route": "~1.4.9"
+  }
+}
